@@ -1,0 +1,9 @@
+# Plugins de Tmux (administrados automáticamente por TPM)
+.config/tmux/.tmux/
+
+# Respaldos y archivos temporales
+*.old
+*.backup
+*.swp
+*~
+.DS_Store
